@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /cache/
+Disallow: /search/
+Disallow: /?s=
+
+Sitemap: https://www.vodkacasino.store/sitemap.xml
